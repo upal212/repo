@@ -1,0 +1,241 @@
+Package: applist
+Name: AppList
+Architecture: iphoneos-arm
+Description: Allow extensions to read the list of installed apps
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Section: System
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+Version: 1.5.16
+Installed-Size: 780
+Filename: debs/applist_1.5.16.deb
+Depiction: https://upal212.github.io/repo/depictions/applist.html
+Size: 105098
+MD5sum: af1bdc77dd1805c249d416fa96957841
+SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
+SHA256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
+SHA521: b7e71705b10ea05613dc01c28cf174517acc626a9866f4030365c3eb034a81b70927b1a59678f50ed24513b56785523e8e415f932970f48c1b30156048386d1e
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.8.2
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Filename: debs/com.exile90.icleanerpro_7.8.2.deb
+Depiction: https://upal212.github.io/repo/depictions/com.exile90.icleanerpro.html
+Size: 6557578
+MD5sum: 2967fdbb6c3c65b7a1d00523136e7b58
+SHA1: 0eed6fcaf5e77dc5338e5b9da01d0e8786d662f1
+SHA256: 4e2f3600be5bc7253bdc890fe156d75a2e697a6e5404f549a01f65917d01f8c4
+SHA521: f7f0ecf25cb41e2e847c77d6feb9446d3944e5e0e61e8067991cd05d9f4a70c1509a14e8425c125b7350a86afd0286fa46033b390f3a6d378085061ab6c72c07
+
+Package: com.julioverne.spotilife
+Name: Spotilife
+Author: julioverne
+Version: 1.1a
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+Filename: debs/com.julioverne.spotilife_1.1a.deb
+Depiction: https://upal212.github.io/repo/depictions/com.julioverne.spotilife.html
+Size: 201134
+MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
+SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
+SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
+SHA521: c365bb9511e1beea90a31c23de2271f0a1d3bcc2b6dc5983413e3c387448eb3f95f6251467623b0c850c63bc57ddb3ccd6b7ee9f5638e0cc3911a61192ec7fb3
+
+Package: com.matchstic.reprovision
+Name: ReProvision
+Version: 0.5.2~EOL
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Homepage: https://github.com/Matchstic/Extender-Installer
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Filename: debs/com.matchstic.reprovision_0.5.2~EOL.deb
+Depiction: https://upal212.github.io/repo/depictions/com.matchstic.reprovision.html
+Size: 14406348
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
+SHA521: 55e5b6ea8072150c04fa6a6b2473117f512d246edecbbbcdb23c91d995328e71566405b2119296ab1107e41f7ba45fba8878b6ea30d50310868e011655065d77
+
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Name: RocketBootstrap
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.9
+Installed-Size: 596
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.9.deb
+Depiction: https://upal212.github.io/repo/depictions/com.rpetrich.rocketbootstrap.html
+Size: 37192
+MD5sum: 612e3c55752ee8cfc631e341c5618795
+SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
+SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
+SHA521: 93f923f5fd94fd9defe8369b9d08907ca28587750dfb35bc1f8fb487e3743cc74a5f480439b663a01b5c3b561cda2f76a5c110c95ee88b61591c310c3a3cdfad
+
+Package: com.ryleyangus.libertylite.beta
+Name: Liberty Lite (Beta)
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Architecture: iphoneos-arm
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Version: 0.2.12
+Installed-Size: 616
+Filename: debs/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Depiction: https://upal212.github.io/repo/depictions/com.ryleyangus.libertylite.beta.html
+Size: 42210
+MD5sum: 37298170685afadc9b2bf7f636dafba7
+SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
+SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
+SHA521: 11962c8387cc69f7108dda6bde8374de78896c40b978ed3ab3af790f6efce63ca77d0112170ff9e3da6d37807dfa9a62d6fd1509530673efead7bf17fb84e1ff
+
+Name: Succession
+Package: com.samgisaninja.successionrestore
+Priority: optional
+Depends: firmware-sbin, rsync
+Version: 1.4.14
+Architecture: iphoneos-arm
+Description: Restore without updating via rootfilesystem DMG
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=successionrestoreDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=successionrestoreDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Samg_is_a_Ninja <samgisaninja@unc0ver.dev>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 3122
+dev: stgardner4
+Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
+Filename: debs/com.samgisaninja.successionrestore_1.4.14.deb
+Depiction: https://upal212.github.io/repo/depictions/com.samgisaninja.successionrestore.html
+Size: 1061624
+MD5sum: c48d9828be6f8fe97bf72fa663554211
+SHA1: a1b3050b949846a291a4b80ea798b610eea7d231
+SHA256: 063d37d751929528aca457e2e9d2796781aed3fa7ff4672824ec1b66f973f80a
+SHA521: 213cd02608343f80f1250a0e6436eda0df94ddb865585f3174e3bb1d01ede3dd5edfb45acb6995f7641951bb6f1c61b13f587f915428cee13feb417ebbd3c297
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 3.7.6-20
+Installed-Size: 21472
+Filename: debs/com.tigisoftware.filza64bit_3.7.6-20.deb
+Depiction: https://upal212.github.io/repo/depictions/com.tigisoftware.filza64bit.html
+Size: 8617116
+MD5sum: 76f4a4c64415b3b518727685b8d83e25
+SHA1: 657a7ac0bb53fa94783166122715ac2d15f0dc50
+SHA256: de14bb7cafcc3e455760600a753a172e06c44b50eb1e1b95d648f3c396a8ec58
+SHA521: c8cf6726ab99c292e2f71db71f29a82fa4fdeabc6d367b34bff0b744f4eab783f80472506f9c9086b8ad3e6c9ba59c0c053cc23273d8da78ff2990fec1ddf2e2
+
+Package: mterminal
+Priority: standard
+Section: Utilities
+Installed-Size: 776
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Architecture: iphoneos-arm
+Version: 1.4-6
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Description: A MobileTerminal fork
+Name: MTerminal
+Author: lordscotland <admin@officialscheduler.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Filename: debs/mterminal_1.4-6_iphoneos-arm.deb
+Depiction: https://upal212.github.io/repo/depictions/mterminal.html
+Size: 108042
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
+SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
+SHA521: 136852a83a961079f385ca161fe23300ba7ce632343020e3592effde40f74758ab7e6c9d0c134b3e52b14f79ff3a959b363b620e7f0284724fd4cabf39267360
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Homepage: https://cydia.akemi.ai/
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: net.angelxwind.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Version: 76.0
+Installed-Size: 496
+Filename: debs/net.angelxwind.appsyncunified_76.0.deb
+Depiction: https://upal212.github.io/repo/depictions/net.angelxwind.appsyncunified.html
+Size: 42050
+MD5sum: 929ecb7a6ee19fa8023fb75e615533a9
+SHA1: f02380793e8f9dffbfede00c49ad4dc4ad9e9023
+SHA256: df94944dd2a032342eeeefa6c738c82bde4c9868e1b4b3fdc7fa2154b773a0f4
+SHA521: 7cc0543bf5fa36ee3fff719d4b61035e4a7c983d192e5d6e59a512aeecd05bcb7f43b59564a91b5060918d8ce5bd46adfe45f65f9cc714df7b9e978a3f83ff54
+
+Package: preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: load preferences in style
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Sam Bingner <maintainer@sbdhi.com>
+Section: System
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.2.4
+Installed-Size: 525
+Filename: debs/preferenceloader_2.2.4.deb
+Depiction: https://upal212.github.io/repo/depictions/preferenceloader.html
+Size: 32646
+MD5sum: ad8a5b8d50745e812a0eff4593ae0ec6
+SHA1: 37152710e64875be85ea801072e1d54c633dd88c
+SHA256: 83a634aed3aa29344e4514a20846c87589dc6f16d44e57f3f0dee03fec352d3b
+SHA521: 85f91f5f79dfe56406fd497dfcdd3e4e9f49498fb77550c0ed27a34eb2a007f59c4f2e8f55fd74876b813fff3b5f978826ba9d0f0304e45568eb7e5c0a72e6d8
+
