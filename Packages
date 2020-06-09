@@ -14,6 +14,7 @@ Version: 1.5.16
 Installed-Size: 780
 Filename: debs/applist_1.5.16.deb
 Depiction: https://upal212.github.io/repo/depictions/applist.html
+Icon: https://upal212.github.io/repo/icons/applist.png
 Size: 105098
 MD5sum: af1bdc77dd1805c249d416fa96957841
 SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
@@ -25,7 +26,7 @@ Name: iCleaner Pro
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Version: 7.8.2
+Version: 7.8.3
 Architecture: iphoneos-arm
 Homepage: http://ib-soft.net/icleaner
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
@@ -34,13 +35,14 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
-Filename: debs/com.exile90.icleanerpro_7.8.2.deb
+Filename: debs/com.exile90.icleanerpro_7.8.3.deb
 Depiction: https://upal212.github.io/repo/depictions/com.exile90.icleanerpro.html
-Size: 6557578
-MD5sum: 2967fdbb6c3c65b7a1d00523136e7b58
-SHA1: 0eed6fcaf5e77dc5338e5b9da01d0e8786d662f1
-SHA256: 4e2f3600be5bc7253bdc890fe156d75a2e697a6e5404f549a01f65917d01f8c4
-SHA521: f7f0ecf25cb41e2e847c77d6feb9446d3944e5e0e61e8067991cd05d9f4a70c1509a14e8425c125b7350a86afd0286fa46033b390f3a6d378085061ab6c72c07
+Icon: https://upal212.github.io/repo/icons/com.exile90.icleanerpro.png
+Size: 6468796
+MD5sum: 066dd8cd88f869605942ab7f6019c56f
+SHA1: 6dcfe8105eaf708bb983b2db73c90e91b4f48b4f
+SHA256: 91d9e941d47a2b6d89e1db7edba28aa7e0b1ecfa7127d1ebfa6c03fff0136314
+SHA521: ff59144e5e2fd9622a5b40f63c944e18ea055985824e767d137620cfeaa469e039a5845cd62a48ffcbefd7c5d6c25914a388a98e8af7b4eb1317bfc6f44d352f
 
 Package: com.julioverne.spotilife
 Name: Spotilife
@@ -55,6 +57,7 @@ Section: Tweaks
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
 Filename: debs/com.julioverne.spotilife_1.1a.deb
 Depiction: https://upal212.github.io/repo/depictions/com.julioverne.spotilife.html
+Icon: https://upal212.github.io/repo/icons/com.julioverne.spotilife.png
 Size: 201134
 MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
 SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
@@ -79,6 +82,7 @@ Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Filename: debs/com.matchstic.reprovision_0.5.2~EOL.deb
 Depiction: https://upal212.github.io/repo/depictions/com.matchstic.reprovision.html
+Icon: https://upal212.github.io/repo/icons/com.matchstic.reprovision.png
 Size: 14406348
 MD5sum: 4064144eed72b264038cb91d9e477f1a
 SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
@@ -102,6 +106,7 @@ Version: 1.0.9
 Installed-Size: 596
 Filename: debs/com.rpetrich.rocketbootstrap_1.0.9.deb
 Depiction: https://upal212.github.io/repo/depictions/com.rpetrich.rocketbootstrap.html
+Icon: https://upal212.github.io/repo/icons/com.rpetrich.rocketbootstrap.png
 Size: 37192
 MD5sum: 612e3c55752ee8cfc631e341c5618795
 SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
@@ -122,6 +127,7 @@ Version: 0.2.12
 Installed-Size: 616
 Filename: debs/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
 Depiction: https://upal212.github.io/repo/depictions/com.ryleyangus.libertylite.beta.html
+Icon: https://upal212.github.io/repo/icons/com.ryleyangus.libertylite.beta.png
 Size: 42210
 MD5sum: 37298170685afadc9b2bf7f636dafba7
 SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
@@ -147,6 +153,7 @@ dev: stgardner4
 Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
 Filename: debs/com.samgisaninja.successionrestore_1.4.14.deb
 Depiction: https://upal212.github.io/repo/depictions/com.samgisaninja.successionrestore.html
+Icon: https://upal212.github.io/repo/icons/com.samgisaninja.successionrestore.png
 Size: 1061624
 MD5sum: c48d9828be6f8fe97bf72fa663554211
 SHA1: a1b3050b949846a291a4b80ea798b610eea7d231
@@ -166,6 +173,7 @@ Version: 3.7.6-20
 Installed-Size: 21472
 Filename: debs/com.tigisoftware.filza64bit_3.7.6-20.deb
 Depiction: https://upal212.github.io/repo/depictions/com.tigisoftware.filza64bit.html
+Icon: https://upal212.github.io/repo/icons/com.tigisoftware.filza64bit.png
 Size: 8617116
 MD5sum: 76f4a4c64415b3b518727685b8d83e25
 SHA1: 657a7ac0bb53fa94783166122715ac2d15f0dc50
@@ -188,6 +196,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Filename: debs/mterminal_1.4-6_iphoneos-arm.deb
 Depiction: https://upal212.github.io/repo/depictions/mterminal.html
+Icon: https://upal212.github.io/repo/icons/mterminal.png
 Size: 108042
 MD5sum: dedfc589450b43d268bfc369d5b2f4c8
 SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
@@ -211,6 +220,7 @@ Version: 76.0
 Installed-Size: 496
 Filename: debs/net.angelxwind.appsyncunified_76.0.deb
 Depiction: https://upal212.github.io/repo/depictions/net.angelxwind.appsyncunified.html
+Icon: https://upal212.github.io/repo/icons/net.angelxwind.appsyncunified.png
 Size: 42050
 MD5sum: 929ecb7a6ee19fa8023fb75e615533a9
 SHA1: f02380793e8f9dffbfede00c49ad4dc4ad9e9023
@@ -233,6 +243,7 @@ Version: 2.2.4
 Installed-Size: 525
 Filename: debs/preferenceloader_2.2.4.deb
 Depiction: https://upal212.github.io/repo/depictions/preferenceloader.html
+Icon: https://upal212.github.io/repo/icons/preferenceloader.png
 Size: 32646
 MD5sum: ad8a5b8d50745e812a0eff4593ae0ec6
 SHA1: 37152710e64875be85ea801072e1d54c633dd88c
