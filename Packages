@@ -87,23 +87,22 @@ SHA521: 11962c8387cc69f7108dda6bde8374de78896c40b978ed3ab3af790f6efce63ca77d0112
 
 Package: com.samgisaninja.successionrestore
 Name: Succession
-Version: 1.4.7
+Version: 1.4.15
 Architecture: iphoneos-arm
 Description: Restore without updating via rootfilesystem DMG
 Maintainer: Samg_is_a_Ninja
 Author: Samg_is_a_Ninja
 Section: Utilities
 Depends: firmware-sbin, rsync
-Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
 Icon:file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
-Filename: debs/com.samgisaninja.successionrestore_1.4.7.deb
+Filename: debs/com.samgisaninja.successionrestore_1.4.15_iphoneos-arm.deb
 Depiction: https://upal212.github.io/repo/depictions/com.samgisaninja.successionrestore.html
 Icon: https://upal212.github.io/repo/icons/com.samgisaninja.successionrestore.png
-Size: 1327346
-MD5sum: 1da70a1c50ace5e485ba83c63c3cf069
-SHA1: 63fd1044a9a144f90bae71b2a871eab1f1998716
-SHA256: 869657f60f2a61ee6449f7656f70637c5217fca1f1149f6a45bdda0bada871bb
-SHA521: 863e88593eb465e59679dd8564bbfa425b842af5521ffe1e85871fcad02307de3146eca0971d04220e18533548d285481be9b5ae8547dcaad0cc3bb715a6eac8
+Size: 1176050
+MD5sum: 49897046f0f21b2a5b69a8f035aa9201
+SHA1: bc8377c3723535aa71af974d3e7b4cede404e879
+SHA256: b62349fb95e1773ecde52407034f33b3bb223c2c2aef2e97d148556f944cc36a
+SHA521: 09d933d159428fef9bd6c465d2c0262857d3ca97e09560c4c46ad60473c6e52a4d6bb24b36501695de822e5a09fec0fd58639542a9cb0553fd6e36b8f92e71f3
 
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit
