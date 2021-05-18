@@ -21,6 +21,29 @@ SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
 SHA256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
 SHA521: b7e71705b10ea05613dc01c28cf174517acc626a9866f4030365c3eb034a81b70927b1a59678f50ed24513b56785523e8e415f932970f48c1b30156048386d1e
 
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.9.1
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Filename: debs/com.exile90.icleanerpro_7.9.1.deb
+Depiction: https://upal212.github.io/repo/depictions/com.exile90.icleanerpro.html
+Icon: https://upal212.github.io/repo/icons/com.exile90.icleanerpro.png
+Size: 4786998
+MD5sum: ccd722461350e28e2e0b5a029416ca6c
+SHA1: 36acad04b82db75d345c91ee363a27eb4d602a27
+SHA256: f1e6087494618183f7539bba3a38ee88608383868cfcd524f99b46d7e7a27a47
+SHA521: 472e851b5aa86db6bf178137aa2b0ba885c703157bd81fd61be965d5b18b14783afe7e19a90c48c4defc88779c5851fc6532baa58dbcdd6865d1b3496e11b2d2
+
 Package: com.julioverne.spotilife
 Name: Spotilife
 Author: julioverne
