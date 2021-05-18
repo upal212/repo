@@ -21,33 +21,10 @@ SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
 SHA256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
 SHA521: b7e71705b10ea05613dc01c28cf174517acc626a9866f4030365c3eb034a81b70927b1a59678f50ed24513b56785523e8e415f932970f48c1b30156048386d1e
 
-Package: com.exile90.icleanerpro
-Name: iCleaner Pro
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Version: 7.8.3
-Architecture: iphoneos-arm
-Homepage: http://ib-soft.net/icleaner
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Section: Utilities
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Icon: file:///Applications/iCleaner.app/Icon.png
-Filename: debs/com.exile90.icleanerpro_7.8.3.deb
-Depiction: https://upal212.github.io/repo/depictions/com.exile90.icleanerpro.html
-Icon: https://upal212.github.io/repo/icons/com.exile90.icleanerpro.png
-Size: 6468796
-MD5sum: 066dd8cd88f869605942ab7f6019c56f
-SHA1: 6dcfe8105eaf708bb983b2db73c90e91b4f48b4f
-SHA256: 91d9e941d47a2b6d89e1db7edba28aa7e0b1ecfa7127d1ebfa6c03fff0136314
-SHA521: ff59144e5e2fd9622a5b40f63c944e18ea055985824e767d137620cfeaa469e039a5845cd62a48ffcbefd7c5d6c25914a388a98e8af7b4eb1317bfc6f44d352f
-
 Package: com.julioverne.spotilife
 Name: Spotilife
 Author: julioverne
-Version: 1.1a
+Version: 1.5
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
@@ -55,63 +32,14 @@ Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Section: Tweaks
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
-Filename: debs/com.julioverne.spotilife_1.1a.deb
+Filename: debs/com.julioverne.spotilife_1.5.deb
 Depiction: https://upal212.github.io/repo/depictions/com.julioverne.spotilife.html
 Icon: https://upal212.github.io/repo/icons/com.julioverne.spotilife.png
-Size: 201134
-MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
-SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
-SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
-SHA521: c365bb9511e1beea90a31c23de2271f0a1d3bcc2b6dc5983413e3c387448eb3f95f6251467623b0c850c63bc57ddb3ccd6b7ee9f5638e0cc3911a61192ec7fb3
-
-Package: com.matchstic.reprovision
-Name: ReProvision
-Version: 0.5.2~EOL
-Description: Re-sign applications on your device
-Section: System
-Depends: firmware (>= 9.0)
-Priority: optional
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Architecture: iphoneos-arm
-Author: Matt Clarke <matt@incendo.ws>
-dev: Matt Clarke <matt@incendo.ws>
-Maintainer: Matt Clarke <matt@incendo.ws>
-Homepage: https://github.com/Matchstic/Extender-Installer
-Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Filename: debs/com.matchstic.reprovision_0.5.2~EOL.deb
-Depiction: https://upal212.github.io/repo/depictions/com.matchstic.reprovision.html
-Icon: https://upal212.github.io/repo/icons/com.matchstic.reprovision.png
-Size: 14406348
-MD5sum: 4064144eed72b264038cb91d9e477f1a
-SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
-SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
-SHA521: 55e5b6ea8072150c04fa6a6b2473117f512d246edecbbbcdb23c91d995328e71566405b2119296ab1107e41f7ba45fba8878b6ea30d50310868e011655065d77
-
-Package: com.rpetrich.rocketbootstrap
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
-Name: RocketBootstrap
-Architecture: iphoneos-arm
-Description: Support library allowing tweaks to communicate with sandboxed processes
-Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
-Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-Section: Tweaks
-dev: rpetrich
-Tag: purpose::extension, role::developer
-Version: 1.0.9
-Installed-Size: 596
-Filename: debs/com.rpetrich.rocketbootstrap_1.0.9.deb
-Depiction: https://upal212.github.io/repo/depictions/com.rpetrich.rocketbootstrap.html
-Icon: https://upal212.github.io/repo/icons/com.rpetrich.rocketbootstrap.png
-Size: 37192
-MD5sum: 612e3c55752ee8cfc631e341c5618795
-SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
-SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
-SHA521: 93f923f5fd94fd9defe8369b9d08907ca28587750dfb35bc1f8fb487e3743cc74a5f480439b663a01b5c3b561cda2f76a5c110c95ee88b61591c310c3a3cdfad
+Size: 203206
+MD5sum: e6f23d0d85fbeb7482b8a316ce34a747
+SHA1: 2bc696b377d033486598196c8b7ad3d1ce5c3ab7
+SHA256: d6cf93cf19bfbee0114e941b91e3b5d9495e5407e62319167ed638d5af76db39
+SHA521: 6ec11e33c8e93c3b7de129dc997a5a9b481d3a8b225a857fd5348a22322e391d7289691982b6535877d80f6090324a26215d663e8c851aaad065a352ea9cd947
 
 Package: com.ryleyangus.libertylite.beta
 Name: Liberty Lite (Beta)
@@ -125,7 +53,7 @@ Section: Tweaks
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Version: 0.2.12
 Installed-Size: 616
-Filename: debs/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Filename: debs/com.ryleyangus.libertylite.beta_0.2.12.deb
 Depiction: https://upal212.github.io/repo/depictions/com.ryleyangus.libertylite.beta.html
 Icon: https://upal212.github.io/repo/icons/com.ryleyangus.libertylite.beta.png
 Size: 42210
@@ -134,31 +62,25 @@ SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
 SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
 SHA521: 11962c8387cc69f7108dda6bde8374de78896c40b978ed3ab3af790f6efce63ca77d0112170ff9e3da6d37807dfa9a62d6fd1509530673efead7bf17fb84e1ff
 
-Name: Succession
 Package: com.samgisaninja.successionrestore
-Priority: optional
-Depends: firmware-sbin, rsync
-Version: 1.4.14
+Name: Succession
+Version: 1.4.7
 Architecture: iphoneos-arm
 Description: Restore without updating via rootfilesystem DMG
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=successionrestoreDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=successionrestoreDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: Samg_is_a_Ninja <samgisaninja@unc0ver.dev>
+Maintainer: Samg_is_a_Ninja
+Author: Samg_is_a_Ninja
 Section: Utilities
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Installed-Size: 3122
-dev: stgardner4
-Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
-Filename: debs/com.samgisaninja.successionrestore_1.4.14.deb
+Depends: firmware-sbin, rsync
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
+Icon:file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Filename: debs/com.samgisaninja.successionrestore_1.4.7.deb
 Depiction: https://upal212.github.io/repo/depictions/com.samgisaninja.successionrestore.html
 Icon: https://upal212.github.io/repo/icons/com.samgisaninja.successionrestore.png
-Size: 1061624
-MD5sum: c48d9828be6f8fe97bf72fa663554211
-SHA1: a1b3050b949846a291a4b80ea798b610eea7d231
-SHA256: 063d37d751929528aca457e2e9d2796781aed3fa7ff4672824ec1b66f973f80a
-SHA521: 213cd02608343f80f1250a0e6436eda0df94ddb865585f3174e3bb1d01ede3dd5edfb45acb6995f7641951bb6f1c61b13f587f915428cee13feb417ebbd3c297
+Size: 1327346
+MD5sum: 1da70a1c50ace5e485ba83c63c3cf069
+SHA1: 63fd1044a9a144f90bae71b2a871eab1f1998716
+SHA256: 869657f60f2a61ee6449f7656f70637c5217fca1f1149f6a45bdda0bada871bb
+SHA521: 863e88593eb465e59679dd8564bbfa425b842af5521ffe1e85871fcad02307de3146eca0971d04220e18533548d285481be9b5ae8547dcaad0cc3bb715a6eac8
 
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit
@@ -169,16 +91,39 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This sp
 Maintainer: TIGI Software
 Author: TIGI Software
 Section: Utilities
-Version: 3.7.6-20
-Installed-Size: 21472
-Filename: debs/com.tigisoftware.filza64bit_3.7.6-20.deb
+Version: 3.8.2-6
+Installed-Size: 21788
+Filename: debs/com.tigisoftware.filza64bit_3.8.2-6.deb
 Depiction: https://upal212.github.io/repo/depictions/com.tigisoftware.filza64bit.html
 Icon: https://upal212.github.io/repo/icons/com.tigisoftware.filza64bit.png
-Size: 8617116
-MD5sum: 76f4a4c64415b3b518727685b8d83e25
-SHA1: 657a7ac0bb53fa94783166122715ac2d15f0dc50
-SHA256: de14bb7cafcc3e455760600a753a172e06c44b50eb1e1b95d648f3c396a8ec58
-SHA521: c8cf6726ab99c292e2f71db71f29a82fa4fdeabc6d367b34bff0b744f4eab783f80472506f9c9086b8ad3e6c9ba59c0c053cc23273d8da78ff2990fec1ddf2e2
+Size: 8387192
+MD5sum: 6b5b72b96b8249d976ce7b8db2da67c6
+SHA1: 5d4b197de8f2f3833b49ce20f7cc4e4a812b791a
+SHA256: ad9acf44d249ee16df0caa9d2047edb2ddad220b325d6ef4390a4e4208535a6b
+SHA521: a8ef05a3fb5376fd54ace727847adbb738f3c5ad5cd599febf776ee63eeb04ece4e313e1d2f2b4fe5e2191f2763f8847c91dee67ad3662c0d8f9323de0330062
+
+Package: jp.soh.reprovision
+Name: ReProvision Reborn
+Version: 0.6.2~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Author: Soh Satoh, Matt Clarke
+Maintainer: Soh Satoh
+Description: Re-sign applications on your device
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Filename: debs/jp.soh.reprovision_0.6.2~release.deb
+Depiction: https://upal212.github.io/repo/depictions/jp.soh.reprovision.html
+Icon: https://upal212.github.io/repo/icons/jp.soh.reprovision.png
+Size: 14667432
+MD5sum: d1f99bfa8aa62d5281416c973c9d12ce
+SHA1: d5c24c64df51f891a1e94b8d45bdeb997650d79f
+SHA256: 48b09b6d92e45ccd49c4249a025592247c9283342561b3615d532acc16844c43
+SHA521: e4a18a564ad8a903b8f150a48f77c84cf0e22b23ed72b9532fd69b67a2fe8aebaf4be8458cb65b4bf1822343fee3b943d9648b1ebe778a8b949a96879d3f868d
 
 Package: mterminal
 Priority: standard
@@ -204,7 +149,7 @@ SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
 SHA521: 136852a83a961079f385ca161fe23300ba7ce632343020e3592effde40f74758ab7e6c9d0c134b3e52b14f79ff3a959b363b620e7f0284724fd4cabf39267360
 
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
-Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.5.1)
 Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Homepage: https://cydia.akemi.ai/
@@ -215,38 +160,15 @@ Name: AppSync Unified
 Architecture: iphoneos-arm
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Section: Tweaks
-Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
-Version: 76.0
-Installed-Size: 496
-Filename: debs/net.angelxwind.appsyncunified_76.0.deb
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Version: 96.0
+Installed-Size: 732
+Filename: debs/net.angelxwind.appsyncunified_96.0.deb
 Depiction: https://upal212.github.io/repo/depictions/net.angelxwind.appsyncunified.html
 Icon: https://upal212.github.io/repo/icons/net.angelxwind.appsyncunified.png
-Size: 42050
-MD5sum: 929ecb7a6ee19fa8023fb75e615533a9
-SHA1: f02380793e8f9dffbfede00c49ad4dc4ad9e9023
-SHA256: df94944dd2a032342eeeefa6c738c82bde4c9868e1b4b3fdc7fa2154b773a0f4
-SHA521: 7cc0543bf5fa36ee3fff719d4b61035e4a7c983d192e5d6e59a512aeecd05bcb7f43b59564a91b5060918d8ce5bd46adfe45f65f9cc714df7b9e978a3f83ff54
-
-Package: preferenceloader
-Name: PreferenceLoader
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: load preferences in style
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: Sam Bingner <maintainer@sbdhi.com>
-Section: System
-dev: dustinhowett
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
-Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Version: 2.2.4
-Installed-Size: 525
-Filename: debs/preferenceloader_2.2.4.deb
-Depiction: https://upal212.github.io/repo/depictions/preferenceloader.html
-Icon: https://upal212.github.io/repo/icons/preferenceloader.png
-Size: 32646
-MD5sum: ad8a5b8d50745e812a0eff4593ae0ec6
-SHA1: 37152710e64875be85ea801072e1d54c633dd88c
-SHA256: 83a634aed3aa29344e4514a20846c87589dc6f16d44e57f3f0dee03fec352d3b
-SHA521: 85f91f5f79dfe56406fd497dfcdd3e4e9f49498fb77550c0ed27a34eb2a007f59c4f2e8f55fd74876b813fff3b5f978826ba9d0f0304e45568eb7e5c0a72e6d8
+Size: 58314
+MD5sum: b05833ad9884975b7046cf42626d5412
+SHA1: 77e646ab74cd52cc5138d4391ab1831f891c76fa
+SHA256: 6431e859447a8279a3db69eb955e8a52f21baf9887cbcd00aad2ecf08f76e813
+SHA521: 9650eb65fad9658f9d046eca9b5d2afcf763a080e2c9705b9ba62b792843ac1b4a1b492ad803541e8d256b62ec3861663eab9f5eff421f04ad798004a5a24092
 
