@@ -192,6 +192,36 @@
       "appID": "org.coolstar.odyssey"
     },
     {
+      "name": "Taurine",
+      "bundleIdentifier": "org.coolstar.taurine",
+      "developerName": "Odyssey Team",
+      "subtitle": "Time to get amped.",
+      "version": "1.1.6",
+      "versionDate": "2022-07-17T12:33:15Z",
+      "versionDescription": "# 1.1.6\n\n- Backports DER entitlement fixes from Taurine15\r\n- Backports codesignature fixes from Taurine15\r\n- Backports various other fixes from Taurine15\r\n",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+      "localizedDescription": "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+      "iconURL": "https://taurine.app/assets/images/icon.png",
+      "tintColor": "#F65656",
+      "size": 31938370,
+      "screenshotURLs": [
+        "https://taurine.app/assets/images/ss-1.png",
+        "https://taurine.app/assets/images/ss-2.png",
+        "https://taurine.app/assets/images/ss-3.png"
+      ],
+      "absoluteVersion": "1.1.6",
+      "versions": [
+        {
+          "version": "1.1.6",
+          "date": "2022-07-17T12:33:15Z",
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+          "localizedDescription": "# 1.1.6\n\n- Backports DER entitlement fixes from Taurine15\r\n- Backports codesignature fixes from Taurine15\r\n- Backports various other fixes from Taurine15\r\n",
+          "size": 31938370,
+          "absoluteVersion": "1.1.6"
+        }
+      ]
+    },
+    {
       "name": "unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd",
