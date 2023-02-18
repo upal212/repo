@@ -118,7 +118,7 @@
       "developerName": "Spotify",
       "version": "8.6.42",
       "versionDate": "2022-08-04",
-      "downloadURL": "http://upal212.github.io/ipas/Spotify.ipa",
+      "downloadURL": "http://upal212.github.io/repo/ipas/Spotify.ipa",
       "localizedDescription": "Spotify++ 8.6.42 but with extra dylibs",
       "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Spotify++8.6.94.png",
       "tintColor": "FFC300",
@@ -292,34 +292,6 @@
       "appID": "com.rileytestut.Delta",
       "date": "2021-04-21",
       "notify": true
-    },
-    {
-      "title": "#StandWithUkraine",
-      "identifier": "support-ukraine",
-      "caption": "Find out how you can help support those impacted by the Russian invasion.",
-      "tintColor": "003e80",
-      "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
-      "url": "https://linktr.ee/razomforukraine",
-      "date": "2022-03-01",
-      "notify": false
-    },
-    {
-      "title": "New to SideStore?",
-      "identifier": "updated-faq",
-      "caption": "Check out our updated guide to learn how to sideload apps!",
-      "tintColor": "018084",
-      "url": "https://wiki.sidestore.io",
-      "date": "2022-07-28",
-      "notify": false
-    },
-    {
-      "title": "Welcome to SideStore",
-      "identifier": "welcome-to-altstore-alpha",
-      "caption": "Please read the FAQ for help with installing apps.",
-      "tintColor": "018084",
-      "url": "https://sidestore.io",
-      "date": "2019-09-28",
-      "notify": false
     },
   ],
   "version": 2
