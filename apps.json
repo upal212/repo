@@ -114,7 +114,7 @@
     },
     {
       "name": "Spotify++",
-      "bundleIdentifier": "app.zeus.d8250ca5b0efa4e784dbc45d784af7",
+      "bundleIdentifier": "dev.jjtech.spotify.client",
       "developerName": "Spotify",
       "version": "8.6.42",
       "versionDate": "2022-08-04",
@@ -142,6 +142,23 @@
       "screenshotURLs": [
           "https://i.imgur.com/gcxk2Fq.png",
           "https://i.imgur.com/gcxk2Fq.png"
+      ]
+    },
+    {
+      "name": "UntetherUTM",
+      "bundleIdentifier": "com.swifticul.UntetherUTM",
+      "developerName": "swifticul",
+      "version": "8.6.42",
+      "versionDate": "2022-08-04",
+      "downloadURL": "https://github.com/Swifticul/UntetherUTM/releases/download/v4.1.5b3/ios-arm64.ipa",
+      "localizedDescription": "UntetherUTM is a modified UTM client that replaces JitStreamerAttach with sbatupoc to allow for untethered JIT activation when installed using SideStore!",
+      "iconURL": "https://connect.sidestore.ml/public/apps/com.swifticul.UntetherUTM/icon.png",
+      "tintColor": "FFC300",
+      "size": 5667678,
+      "screenshotURLs": [
+          "https://connect.sidestore.ml/public/apps/com.swifticul.UntetherUTM/1/screenshots/0",
+          "https://connect.sidestore.ml/public/apps/com.swifticul.UntetherUTM/1/screenshots/2",
+          "https://connect.sidestore.ml/public/apps/com.swifticul.UntetherUTM/1/screenshots/3"
       ]
     },
     {
